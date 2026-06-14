@@ -4,6 +4,10 @@ Aquest repositori és el punt de partida per treballar la llibreria compartida d
 
 Consulteu `ACTIVITAT_GUIADA_IA.md` abans de modificar DTOs o repositoris.
 
+## Progressió de l’ajuda IA
+
+**Nivell 4 - Contractes propis.** Aquesta llibreria s’utilitza sobretot a Lab 4. L’agent IA ha de partir sempre del contracte HTTP i no ha de inventar accés directe a BD.
+
 ## Entrega per tasca
 
 Per cada targeta del Jira, Trello o GitHub Projects heu d'entregar:

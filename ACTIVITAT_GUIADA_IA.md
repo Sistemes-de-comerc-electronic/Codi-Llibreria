@@ -2,6 +2,10 @@
 
 Aquesta llibreria forma part de les tasques del Lab 4. Cada canvi ha de tenir targeta, prompt, pla IA, PR, proves i revisió crítica.
 
+## Nivell de guia
+
+**Nivell 4 - Contractes propis.** La feina parteix del contracte HTTP. La IA no pot inventar accés directe a BD ni saltar-se la separació front/back/vendor.
+
 ## Entrega per cada tasca
 
 - **Descripció funcional:** què s'ha de fer i per què aporta valor al projecte.
