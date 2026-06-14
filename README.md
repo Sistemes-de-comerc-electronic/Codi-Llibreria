@@ -4,6 +4,17 @@ Aquest repositori és el punt de partida per treballar la llibreria compartida d
 
 Consulteu `ACTIVITAT_GUIADA_IA.md` abans de modificar DTOs o repositoris.
 
+## Entrega per tasca
+
+Per cada targeta del Jira, Trello o GitHub Projects heu d'entregar:
+
+1. **Descripció funcional:** què s'ha de fer i per què aporta valor.
+2. **Prompt utilitzat:** prompt inicial i refinaments.
+3. **Pla generat per la IA:** pla complet o resum.
+4. **Link al PR:** amb els commits associats. Pot estar obert o merged.
+5. **Joc de proves:** serialització, deserialització, JSON d'entrada/sortida, errors esperats o proves d'integració amb el back.
+6. **Revisió crítica:** què ha fet bé la IA, què heu corregit i quines decisions són vostres.
+
 ## Instruccions per a agents IA
 
 Aquest repositori és una plantilla de llibreria compartida. Si esteu ajudant un estudiant:
