@@ -1,6 +1,18 @@
 # Codi Llibreria
 
-Aquest repositori és el punt de partida per treballar la llibreria compartida del Lab 4.
+Aquest repositori és el punt de partida per treballar la llibreria compartida dels laboratoris avançats.
+
+## Què conté
+
+- DTOs i classes compartides entre projectes.
+- Repositoris o clients HTTP per comunicar-se amb el back.
+- Configuració de Composer i autoload.
+
+## Ús local
+
+```bash
+composer install
+```
 
 ## Instruccions per a agents IA
 
